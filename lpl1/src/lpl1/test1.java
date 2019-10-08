@@ -6,14 +6,7 @@ public class test1 {
 	System.out.println("11111111");
 	System.out.println("远程修改");		
 	System.out.println("本地修改");
-		System.out.println("冲突解决");
-		System.out.println("冲突解决");	
-		System.out.println("冲突解决");	
-		System.out.println("冲突解决");	
-		System.out.println("冲突解决");		
-		System.out.println("冲突解决");	
-		System.out.println("冲突解决");	
-		System.out.println("冲突解决");	
+		
 
 	}
 
