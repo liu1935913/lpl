@@ -8,9 +8,6 @@ public class test1 {
 		int a=10;
 		int b=11;
 
-		String c="12";
-		String d="13";
-
 	}
 	
 	
