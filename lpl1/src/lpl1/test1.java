@@ -7,10 +7,7 @@ public class test1 {
 
 		int a=10;
 		int b=11;
-
-
 		int c=12;
-		int d=13;
 
 
 	}
